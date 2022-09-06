@@ -1,6 +1,6 @@
 main:
   - title: "General information"
-    url: /posts/
+    url: /info/
   - title: "Posts"
     url: /posts/
 #  - title: "Categories"
