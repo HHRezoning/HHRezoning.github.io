@@ -1,4 +1,7 @@
-# General information
+---
+permalink: /info/
+title: "General information"
+---
 
 The Hidden Hills planned use development (PUD) can be found [here](example.com)
 
