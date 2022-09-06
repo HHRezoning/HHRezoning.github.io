@@ -1,6 +1,6 @@
 ---
 title: "Sept 12 rezoning meeting"
-date: 2022-09-105T19:00:00-04:00
+date: 2022-09-05T19:00:00-04:00
 categories:
   - blog
 tags:
