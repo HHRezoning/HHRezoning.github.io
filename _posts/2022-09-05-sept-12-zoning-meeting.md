@@ -17,4 +17,4 @@ Please notifiy any friends and neighbors who may want to attend as well.
 
 For more information, including links to resources, please see [General Information](/info/).
 
-
+To recieve updates about what is going on with the Hidden Hills rezoning, please [subscribe to our mailing list/newsletter](https://mailchi.mp/13197dcacffb/hidden-hills-rezoning-newsletter).  (We will **not** share your information with third parties.)
