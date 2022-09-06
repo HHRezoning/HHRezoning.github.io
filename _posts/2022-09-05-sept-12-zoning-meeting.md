@@ -15,6 +15,6 @@ tags:
 If you are able to attend, please come out and make your voice heard.
 Please notifiy any friends and neighbors who may want to attend as well.
 
-For more information, including links to resources, please see [General Information](/info/).
+For more information, including links to a copy of the PUD proposal and videos of the meetings, please see [General Information](/info/).
 
 To recieve updates about what is going on with the Hidden Hills rezoning, please [subscribe to our newsletter](https://form.jotform.com/222486313327151).  (We will **not** share your information with third parties.)
