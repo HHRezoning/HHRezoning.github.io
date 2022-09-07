@@ -7,7 +7,7 @@ tags:
   - Hidden Hills 
 ---
 
-The City of Collegedale has the agenda for the [September 12th Planning Commission meeting](https://cms8.revize.com/revize/collegedaletn//Document%20Center/Agendas%20&%20Minutes/Planning%20Commission/2022/September%2012%20Agenda.pdf) on it's website.
+The City of Collegedale has the agenda for the [September 12th Planning Commission meeting](https://cms8.revize.com/revize/collegedaletn//Document%20Center/Agendas%20&%20Minutes/Planning%20Commission/2022/September%2012%20Agenda.pdf) on its website.
 
 Those interested in [past agendas and meeting minutes](https://www.collegedaletn.gov/government/agendas___minutes/planning_commission.php) can also find them on the City's website.
 (I will add this link to the [general information](/info/) page as well.)
