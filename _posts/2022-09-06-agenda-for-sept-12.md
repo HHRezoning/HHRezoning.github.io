@@ -1,5 +1,10 @@
 ---
-title:    Agenda for Sept. 12th Planning Commission meeting
+title:    "Agenda for Sept. 12th Planning Commission meeting"
+date:     2022-09-06T22:00:00-04:00
+categories:
+  - Blog
+tags:
+  - Hidden Hills 
 ---
 
 The City of Collegedale has the agenda for the [September 12th Planning Commission meeting](https://cms8.revize.com/revize/collegedaletn//Document%20Center/Agendas%20&%20Minutes/Planning%20Commission/2022/September%2012%20Agenda.pdf) on it's website.
