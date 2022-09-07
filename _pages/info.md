@@ -4,7 +4,7 @@ title: "General information"
 ---
 
 The Hidden Hills rezoning and planned unit development (PUD) is a proposal to add a 591 home subdivision to the outskirts of Collegedale, TN.
-The proposed development would empty on to Edgemon Rd. and more than double the amount of homes that empty onto this 2 lane road.
+The proposed development would empty onto Edgemon Rd. and more than double the amount of homes that empty onto this 2 lane road.
 
 The [Hidden Hills PUD proposal](https://cms8.revize.com/revize/collegedaletn//Document%20Center/Agendas%20&%20Minutes/Planning%20Commission/2022/PC%207-11-2022%20AgendaRev.pdf) is provided by the City, although it seems to be missing information that the Collegedale Zoning Ordinances require.
 
