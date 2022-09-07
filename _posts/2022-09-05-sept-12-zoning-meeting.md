@@ -8,7 +8,7 @@ tags:
   - Hidden Hills 
 ---
 
-**September 12th at 6 p.m. at Collegedale City Hall** is when the next zoning meeting for the Hidden Hills rezoning and planned use development is scheduled for.
+**September 12th at 6 p.m. at Collegedale City Hall** is when the next zoning meeting for the Hidden Hills rezoning and planned ~~use~~ unit development (PUD) is scheduled for.
 
 <!--more-->
 
@@ -19,3 +19,5 @@ For more information, including links to a copy of the PUD proposal and videos o
 
 To recieve updates about what is going on with the Hidden Hills rezoning, please [subscribe to our newsletter](https://form.jotform.com/222486313327151).
 (We will **not** share your information with third parties.)
+
+**Edited (2022-09-06): corrected "planned use development" to "planned _unit_ development", and also added its abbreviation.**
