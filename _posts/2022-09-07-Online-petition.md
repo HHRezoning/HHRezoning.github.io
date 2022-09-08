@@ -27,7 +27,7 @@ If I get concrete information regarding future meetings, I will post what I find
 On a personal note, I'm frustrated that the city is not being more transparent with the scheduling of these meetings and the whole rezonining/PUD approval process.
 It's difficult to tell what is official and what is not because the City of Collegedale makes this information difficult to find.
 I _think_ that the traffic study that was commissioned was completed, but I haven't been able to find any information regarding it on the city's website.
-You _can_ find information about the meetings on the city's [meetings website], although it's not necessarily straight-forward to locate that webpage (or at least it wasn't for me).
+You can find information about the meetings on the city's [meetings website], although it's not necessarily straight-forward to locate that webpage (or at least it wasn't for me).
 Scheduled meetings are not, however, listed on the city's calendar, news feed, or displayed on any signage.
 Just tonight I saw a notice on the big electronic sign in front of the library for local club meetings;
 it's been quite some time since I've seen a similar notice for Planning Commission or City Commission meetings.
