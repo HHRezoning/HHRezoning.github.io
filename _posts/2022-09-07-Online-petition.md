@@ -13,7 +13,7 @@ Let's help them get there!
 
    [petition]:  https://www.change.org/p/stop-the-rezoning-and-destruction-of-600-acres-of-woodland-agricultural-land-for-commercial-use
 
-**Update:**  The petition has reached 1500 signatures!
+**Update:**  The petition has reached 1500 signatures (and counting)!
 You can still sign though to show your disapproval of the rezoning.
 Coming out to the [Planning Commission meeting](announcement) in person will have an even greater impact!
 
