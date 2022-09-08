@@ -18,7 +18,7 @@ You can still sign though to show your disapproval of the rezoning.
 Coming out to the [Planning Commission meeting](announcement) in person will have an even greater impact!
 
 Also, it's important to note that if the Planning Commission approves the rezoning and PUD, the City Commission (equivalent to the city council) will need to approve the proposals at one of their meetings.
-City Commission meetings are ususally scheduled for the first Monday of the month, but they can also call special meetings ([as they've done recently][meetings website]).
+City Commission meetings are usually scheduled for the first Monday of the month, but they can also call special meetings ([as they've done recently][meetings website]).
 I've heard [rumors] that the City Commission may hold a special, early meeting to approve the rezoning and PUD, but I haven't been able to confirm if that's true or not.
 If I get concrete information regarding future meetings, I will post what I find on this blog.
 
