@@ -19,7 +19,7 @@ Coming out to the [Planning Commission meeting](announcement) in person will hav
 
 Also, it's important to note that if the Planning Commission approves the rezoning and PUD, the City Commission (equivalent to the city council) will need to approve the proposals at one of their meetings.
 City Commission meetings are ususally scheduled for the first Monday of the month, but they can also call special meetings ([as they've done recently][meetings website]).
-I've heard [rumors] that the City Commission may hold an special meeting to approve the rezoning and PUD, but I haven't been able to confirm if that's true or not.
+I've heard [rumors] that the City Commission may hold a special, early meeting to approve the rezoning and PUD, but I haven't been able to confirm if that's true or not.
 If I get concrete information regarding future meetings, I will post what I find on this blog.
 
    [rumors]:  https://www.change.org/p/stop-the-rezoning-and-destruction-of-600-acres-of-woodland-agricultural-land-for-commercial-use/u/30881583
