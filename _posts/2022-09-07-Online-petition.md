@@ -13,7 +13,7 @@ Let's help them get there!
 
    [petition]:  https://www.change.org/p/stop-the-rezoning-and-destruction-of-600-acres-of-woodland-agricultural-land-for-commercial-use
 
-**Update:  The Petittion has reached 1500 signatures, but you can still sign to show your disapproval of the rezoning.**
+**Update:  The petition has reached 1500 signatures, but you can still sign to show your disapproval of the rezoning.**
 
 Also, it's important to note that if the Planning Commission approves the rezoning and PUD, the City Commission (equivalent to the city council) will need to approve the proposals at one of their meetings.
 City Commission meetings are ususally scheduled for the first Monday of the month, but they can also call special meetings ([as they've done recently](meetings website]).
@@ -42,4 +42,4 @@ Most importantly, **please plan on attending the [Planning Commission meeting on
 I also tweaked the post a bit.
 You can view previous versions of this post [here][versions].
 
-   [versions]:  
+   [versions]:  https://github.com/HHRezoning/HHRezoning.github.io/commit/81903c87f8e1ecaa3e4a5b88e7f73f1ec99be44e
